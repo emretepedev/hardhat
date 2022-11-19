@@ -1,5 +1,13 @@
 # hardhat
 
+## 2.12.3
+
+### Patch Changes
+
+- c9809e182: Trim leading and trailing spaces in mnemonics.
+- a1d43109a: Pending blocks now include the `bloom` field.
+- 937d15e51: A better error is show if a Solidity file makes an import throug its own package name.
+
 ## 2.12.2
 
 ### Patch Changes
